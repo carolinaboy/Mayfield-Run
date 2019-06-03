@@ -6,6 +6,6 @@ Once upon a time... A mystical man by the name of Baker Mayfield lived in a plac
 ## Instructions
 To begin the game, press space. Then, use the left and right arrows to control Baker. Use space to make him jump. Collect as many gems as possible and escape the enemies without exceeding your health. Then you will win the super bowl ring.
 
-![GitHub Logo](/screenshots/pre.png)
+![GitHub Logo](https://raw.githubusercontent.com/carolinaboy/Mayfield-Run/master/screenshots/playing.PNG)
 
 ![GitHub Logo](/screenshots/playing.png)
