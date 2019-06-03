@@ -9,3 +9,7 @@ To begin the game, press space. Then, use the left and right arrows to control B
 ![GitHub Logo](https://raw.githubusercontent.com/carolinaboy/Mayfield-Run/master/screenshots/playing.PNG)
 
 ![GitHub Logo](https://raw.githubusercontent.com/carolinaboy/Mayfield-Run/master/screenshots/pre.PNG)
+
+## Downloads
+
+https://github.com/carolinaboy/Mayfield-Run/releases/tag/1.0
