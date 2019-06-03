@@ -8,4 +8,4 @@ To begin the game, press space. Then, use the left and right arrows to control B
 
 ![GitHub Logo](https://raw.githubusercontent.com/carolinaboy/Mayfield-Run/master/screenshots/playing.PNG)
 
-![GitHub Logo](/screenshots/playing.png)
+![GitHub Logo](https://raw.githubusercontent.com/carolinaboy/Mayfield-Run/master/screenshots/pre.PNG)
